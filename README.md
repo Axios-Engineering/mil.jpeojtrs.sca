@@ -1,5 +1,6 @@
+[![Build Status](https://travis-ci.org/Axios-Engineering/mil.jpeojtrs.sca.svg?branch=develop-2.0)](https://travis-ci.org/Axios-Engineering/mil.jpeojtrs.sca)
 # REDHAWK SCA EMF Model
- 
+
 ## Description
 
 Contains the SCA XML EMF model used by the REDHAWK IDE and Explorer Applications.
